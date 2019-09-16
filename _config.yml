@@ -6,6 +6,12 @@ description: A portfolio displaying the work done towards a prototype self-balan
 baseurl: "/lagoma1_IN722" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Michael Lagocki
+street_address:
+city: Dunedin
+state:
+zip_code:
+country: New Zealand
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
