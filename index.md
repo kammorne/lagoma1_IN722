@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Next Gen Hardware: Ball-Bot Project'
 description: null
 image: null
 author: null
