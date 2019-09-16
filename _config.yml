@@ -1,6 +1,6 @@
 # site settings
-title: Next Gen Hardware: Ballbot Project
-subtitle: by Michael Lagocki
+title: Next Gen Hardware
+subtitle: Ball-Bot Project
 email: kammorne@gmail.com
 description: A portfolio displaying the work done towards a prototype self-balancing ball-bot
 baseurl: "/lagoma1_IN722" # the subpath of your site, e.g. /blog
