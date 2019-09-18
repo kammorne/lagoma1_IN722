@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Hardware
+description: The hardware used for the project
+image: assets/images/atmega.jpg
 nav-menu: true
 ---
 
