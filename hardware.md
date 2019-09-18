@@ -2,7 +2,7 @@
 layout: post
 title: Hardware
 description: The hardware used for the project
-image: assets/images/atmega.jpg
+image: assets/images/atmega2560.jpg
 nav-menu: true
 ---
 
