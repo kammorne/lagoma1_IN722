@@ -1,7 +1,11 @@
 ---
 layout: home
 title: Home
+<<<<<<< HEAD
 landing-title: 'Next Gen Hardware: Ballbot Project'
+=======
+landing-title: 'Next Gen Hardware: Ball-Bot Project'
+>>>>>>> dedc1e5c8bc23f640c56fd55904033e7dd870c01
 description: null
 image: null
 author: Michael Lagocki
