@@ -1,6 +1,6 @@
 ---
 title: Protocols
-layout: landing
+layout: page
 description: 'The Protocols required for designing a project such as this'
 image: assets/images/Protocols.jpg
 nav-menu: true
