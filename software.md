@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software
-description: The software used to create/design the robot
+description: The software used to create/design the project
 image: assets/images/3dbase.png
 nav-menu: true
 ---
