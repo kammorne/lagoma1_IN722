@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Design Principles
-description: Reasoning Behind The Robot's Design
+description: Reasoning behind the robot's design
 image: assets/images/3dbase.jpg
 nav-menu: true
 ---
