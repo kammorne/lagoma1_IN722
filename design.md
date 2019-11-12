@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Design Principles
+description: Reasoning Behind The Robot's Design
 nav-menu: true
 ---
 
