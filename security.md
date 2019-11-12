@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Security
-description: Security involved for the robot
+description: Security involved for the project
 image: assets/images/security.jpg
 nav-menu: true
 ---
