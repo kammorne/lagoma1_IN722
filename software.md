@@ -44,7 +44,6 @@ nav-menu: true
   novice user who may need some help understanding how to use the program, whereas other programs I have used in the past require some research and looking about on
   Youtube to find other user-made tutorials regarding the subject, since the program's documentation isn't very clear.</p>
 </div>
-</div>
 </section>
 
 </div>
