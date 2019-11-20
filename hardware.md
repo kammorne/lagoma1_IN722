@@ -21,15 +21,16 @@ nav-menu: true
 others who had taken on the project before.
 
 The parts I had selected are as follows:</p>
-<li>
-	<ul>ATMega2560 Board</ul>
-	<ul>ULN2003 Stepper Motor Driver x 3</ul>
-	<ul>5V Stepper Motor x 3</ul>
-	<ul>48mm Omni Wheel x 3</ul>
-	<ul>4 AA Battery Holder</ul>
-	<ul>Batteries</ul>
-	<ul>3D Printed Chassis</ul>
-</li>
+<ul>
+	<li>ATMega2560 Board</li>
+	<li>BNO055 9-Axis Gyrometer/Accelerometer</li>
+	<li>ULN2003 Stepper Motor Driver x 3</li>
+	<li>5V Stepper Motor x 3</li>
+	<li>48mm Omni Wheel x 3</li>
+	<li>4 AA Battery Holder</li>
+	<li>Batteries</li>
+	<li>3D Printed Chassis</li>
+</ul>
 	
 <p>I decided to go for the ATMega 2560 board as it offered enough power and digital ports for the tasks I required the robot to perform.
 Most other boards I had looked at would not offer a good selection of digital ports to be able to plug in all 3 stepper motors.
