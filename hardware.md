@@ -20,16 +20,17 @@ nav-menu: true
 <p>The hardware I'm using for the robot is a simple selection of parts that I found others had used on their projects. Since the whole process of making a self-balancing ball-bot is new to me, I thought I would gather inspiration from
 others who had taken on the project before.
 
-The parts I had selected are as follows:
-
-- ATMega Board
-- ULN2003 Stepper Motor Driver x 3
-- 5V Stepper Motor x 3
-- 48mm Omni Wheel x 3
-- 4 AA Battery Holder
-- Batteries
-- 3D Printed Chassis</p>
-
+The parts I had selected are as follows:</p>
+<li>
+	<ul>ATMega2560 Board</ul>
+	<ul>ULN2003 Stepper Motor Driver x 3</ul>
+	<ul>5V Stepper Motor x 3</ul>
+	<ul>48mm Omni Wheel x 3</ul>
+	<ul>4 AA Battery Holder</ul>
+	<ul>Batteries</ul>
+	<ul>3D Printed Chassis</ul>
+</li>
+	
 <p>I decided to go for the ATMega 2560 board as it offered enough power and digital ports for the tasks I required the robot to perform.
 Most other boards I had looked at would not offer a good selection of digital ports to be able to plug in all 3 stepper motors.
 Most other people who had taken on a ballbot project used boards such as a Teensy board or similar, so that they could keep the size of the hardware down which I assume would help with the balancing of the robot.
