@@ -26,3 +26,6 @@ nav-menu: true
   <p>There was only one sensor I needed for the project, at least in it's early stages, that was the Accelerometer/Gyroscope Sensor. Originally, I was going to use the MPU6050 6-Axis sensor, since a lot of other people taking on this project remarked on how it was a small, lightweight yet very capable sensor. However, I was recommended the BNO055 9-Axis Sensor, and after doing a little bit of research, I figured it should still provide the same kind of functionality that the MPU6050 would have provided, but the BNO055 would end up having more use in later projects if required.</p>
   
   <p>Obviously, I couldn't just have the sensor sending raw data to the wheels of the robot, since that would cause issues when it's trying to steady itself, since the noise in the readings from it adjusting all the time would just cause it to make larger corrections up until it can no longer keep up with the movement of the ball underneath and cause the robot to tip. My solution I attempted to implement was a Kalman filter, which would take in the raw data from the sensor, and filter it so that the data going into the ATMega would be a lot closer to it's current state, so it wouldn't throw itself all over the place trying to keep itself steady.</p>
+</div>
+</section>
+</div>
