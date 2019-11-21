@@ -2,7 +2,7 @@
 layout: page
 title: Design Principles
 description: Reasoning behind the robot's design
-image: assets/images/3dbase.jpg
+image: assets/images/3dbase.png
 nav-menu: true
 ---
 
@@ -30,8 +30,6 @@ the leg design half way through the project so that the drivers could be mounted
 <p>As for the Chassis itself, for the prototype, I figured a PLA 3D printed chassis would be good, as it provided enough robustness for prototyping, but was also light enough where the weight of the chassis would not become a concern when
 getting the robot to balance itself. I also made the chassis lightweight by having the only solid parts be the base plates and the arms, where strength would be needed, and then the brackets for each layer of the robot was designed to be
 strong while having as little amount of material as possible. I had seen other ballbot designs use this kind of bracket design, and I wanted to encorporate it into my design, since it seemed that it would be a strong yet lightweight design.</p>
-	</div>
 </div>
 </section>
-
 </div>
