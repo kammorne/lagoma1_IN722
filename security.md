@@ -25,7 +25,5 @@ nav-menu: true
   For encoding the data, I would plan on using Base64 encoding, since it's useful enough to keep the data out of plaintext, however the main reason for using Base64 would be that it saves on packet size when sending over the network,
   compared to encoding the value with something such as SHA256 or SHA512.</p>
 </div>
-</div>
 </section>
-
 </div>
